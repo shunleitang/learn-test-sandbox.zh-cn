@@ -26,5 +26,6 @@ products:
 - dynamics-365 
 units: 
 - learn-test-sandbox.fallback.handback-already-onlyinloc
+- learn-test-sandbox.fallback.2-test-unit
 badge: 
   uid: learn-test-sandbox.fallback-module-onlyinloc.badge  
